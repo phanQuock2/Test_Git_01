@@ -15,6 +15,7 @@ namespace Test_Git_01
         public Form1()
         {
             InitializeComponent();
+            // phanquoc chinh sua
         }
     }
 }
